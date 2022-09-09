@@ -6,7 +6,7 @@
  ?后面的都需要
  变量格式：export dclCk='mobile=XXX&type=1&mini_token=XXX'@'mobile=XXX&type=1&mini_token=XXX' 多账户 换行 或者 @ 分割
  定时一天一次
- Cron: 15 9 15 * * *
+ cron: 15 9 15 * * *
  [task_local]
  #大参林
  [rewrite_local]
