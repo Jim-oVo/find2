@@ -3,7 +3,7 @@
  日期：8-9
  微信小程序：航嘉积分乐园 完成自动签到 查询积分
  抓包：开着抓包软件进行签到 获取https://wx.huntkey.cn 域名下 Authorization
- 变量格式：export hjjflyCk='111'@'222' 多账户 换行 或者 @ 分割
+ 变量格式：export hjjflyCk='111'@'222' 多账户 换行 或者 @ 分割 
  定时一天一次
  cron: 15 14 15 * * *
  [task_local]
