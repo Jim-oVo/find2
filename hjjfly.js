@@ -5,7 +5,7 @@
  抓包：开着抓包软件进行签到 获取https://wx.huntkey.cn 域名下 Authorization
  变量格式：export hjjflyCk='111'@'222' 多账户 换行 或者 @ 分割
  定时一天一次
- cron: 15 9 * * *
+ cron: 15 14 15 * * *
  [task_local]
  #大参林
  [rewrite_local]
