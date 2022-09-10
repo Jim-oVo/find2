@@ -7,6 +7,7 @@
  * 7-24		签到，积分查询
  *
  * ========= 青龙--配置文件 =========
+ 抓包：搜userId 找userId 在链接末尾，x-amz-security-token在请求头里面
  * 变量格式: export xinhe_data=' userid & x-amz-security-token '   ,多账号用 换行 或 @ 分割
  * 
   cron: 10 17 13 * * *
